@@ -191,7 +191,7 @@ class EcommerceCrawler:
 
 
 # Example usage
-domains = ["https://www.snitch.co.in"]
+domains = ["https://www.text.com"]
 crawler = EcommerceCrawler(domains)
 
 if __name__ == "__main__":
